@@ -9,6 +9,6 @@ while nota != 0 :
 media = n / i 
 
 if media >= 6 :
-    print("Aprovado com média: {} ".format(n))
+    print("Aprovado com média: {} ".format(media))
 else:
-    print("Reprovado com média: {} ".format(n))
+    print("Reprovado com média: {} ".format(media))
